@@ -1,0 +1,21 @@
+info face="match_num" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=102 base=26 scaleW=225 scaleH=263 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="match_num.png"
+chars count=15
+char id=48 x=71 y=161 width=50 height=65 xoffset=16 yoffset=37 xadvance=56 page=0 chnl=0 letter="0"
+char id=49 x=179 y=0 width=31 height=64 xoffset=25 yoffset=38 xadvance=37 page=0 chnl=0 letter="1"
+char id=50 x=178 y=65 width=46 height=65 xoffset=18 yoffset=37 xadvance=52 page=0 chnl=0 letter="2"
+char id=51 x=171 y=197 width=47 height=65 xoffset=17 yoffset=37 xadvance=53 page=0 chnl=0 letter="3"
+char id=52 x=78 y=83 width=50 height=65 xoffset=16 yoffset=37 xadvance=56 page=0 chnl=0 letter="4"
+char id=53 x=132 y=0 width=46 height=64 xoffset=18 yoffset=38 xadvance=52 page=0 chnl=0 letter="5"
+char id=54 x=171 y=131 width=48 height=65 xoffset=17 yoffset=37 xadvance=54 page=0 chnl=0 letter="6"
+char id=55 x=83 y=0 width=48 height=64 xoffset=17 yoffset=38 xadvance=54 page=0 chnl=0 letter="7"
+char id=56 x=122 y=149 width=48 height=65 xoffset=17 yoffset=37 xadvance=54 page=0 chnl=0 letter="8"
+char id=57 x=129 y=65 width=48 height=65 xoffset=17 yoffset=37 xadvance=54 page=0 chnl=0 letter="9"
+char id=20803 x=0 y=83 width=77 height=77 xoffset=2 yoffset=33 xadvance=83 page=0 chnl=0 letter="元"
+char id=35805 x=0 y=0 width=82 height=82 xoffset=0 yoffset=28 xadvance=88 page=0 chnl=0 letter="话"
+char id=36153 x=0 y=161 width=70 height=84 xoffset=6 yoffset=28 xadvance=76 page=0 chnl=0 letter="费"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=0 page=0 chnl=0 letter="	"
+
+kernings count=0

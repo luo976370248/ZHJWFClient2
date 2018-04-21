@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a9fcfef9-e365-4ba0-941f-de6b6f22defe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "jiaru_background_kuang": {
+      "ver": "1.0.3",
+      "uuid": "ff83ce82-5f2c-4b76-8135-6478f84d06c3",
+      "rawTextureUuid": "a9fcfef9-e365-4ba0-941f-de6b6f22defe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1029,
+      "height": 616,
+      "rawWidth": 1029,
+      "rawHeight": 616,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

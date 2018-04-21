@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9dfe5b42-c261-40f3-a821-a4fb208e0838",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "jiazhu_coin": {
+      "ver": "1.0.3",
+      "uuid": "b499c929-91ba-4dc9-867c-dac5f9d9f368",
+      "rawTextureUuid": "9dfe5b42-c261-40f3-a821-a4fb208e0838",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -48.5,
+      "offsetY": 8.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 411,
+      "height": 491,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

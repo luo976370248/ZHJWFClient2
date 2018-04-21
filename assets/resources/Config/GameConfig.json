@@ -1,0 +1,10 @@
+{
+	"IP": "http://47.96.6.52/gateway/index.php",
+	"IsDebug": true, 
+	"IsLog": true, 
+	"IsHeartbeat": false,
+	"HEARTBEAT_INTERVAL": 10, 
+	"MAX_RECONNECT_ATTEMPTS": 10, 
+	"RECONNECT_DELAY": 2, 
+	"HEARTBEAT_TIMEOUT": 5
+}

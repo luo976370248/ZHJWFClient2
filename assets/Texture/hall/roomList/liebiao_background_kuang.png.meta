@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9f5718b7-2b99-41ba-9868-5a92c1ad5d40",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "liebiao_background_kuang": {
+      "ver": "1.0.3",
+      "uuid": "5fdaf4a1-a598-4278-80d3-bccb16e73008",
+      "rawTextureUuid": "9f5718b7-2b99-41ba-9868-5a92c1ad5d40",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1237,
+      "height": 691,
+      "rawWidth": 1237,
+      "rawHeight": 691,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

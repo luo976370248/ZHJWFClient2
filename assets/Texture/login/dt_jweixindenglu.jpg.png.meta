@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d9aa77eb-c1b2-45df-b4ae-a67cc6cc55ad",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "dt_jweixindenglu.jpg": {
+      "ver": "1.0.3",
+      "uuid": "499e1f81-b7ac-4d55-996d-a54c15ca79ef",
+      "rawTextureUuid": "d9aa77eb-c1b2-45df-b4ae-a67cc6cc55ad",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 288,
+      "height": 83,
+      "rawWidth": 288,
+      "rawHeight": 83,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
