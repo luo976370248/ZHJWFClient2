@@ -1,0 +1,71 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "Poker",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "Poker",
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 1
+          },
+          "_spriteFrame": {
+            "__uuid__": "df5yVCBsVNb5NcrksNVLCP"
+          },
+          "_sizeMode": 2,
+          "_isTrimmedMode": false
+        },
+        {
+          "__type__": "d79a4Q96+JPQJdTwq8nt2ze",
+          "node": {
+            "__id__": 1
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "45R3UhbptPDb9UG1tHSrAR"
+        },
+        "fileId": "caf9LPgEhCs6GqQiEZIQ2K"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 92,
+        "height": 128
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "card_black",
+      "texture": "79D0apwd1A8q5cqsZji6mq",
+      "rect": [
+        2,
+        2,
+        88,
+        118
+      ],
+      "offset": [
+        -1,
+        -4
+      ],
+      "originalSize": [
+        92,
+        128
+      ]
+    }
+  }
+]

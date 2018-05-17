@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_3",
+    "texture": "54FxqCMdJH6a19b0Jy80Fq",
+    "rect": [
+      13,
+      10,
+      337,
+      390
+    ],
+    "offset": [
+      6.5,
+      -5
+    ],
+    "originalSize": [
+      350,
+      400
+    ]
+  }
+}

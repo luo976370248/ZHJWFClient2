@@ -1,0 +1,182 @@
+[
+  {
+    "__type__": "cc.BitmapFont",
+    "_name": "plaza_gamedownload_font_jindu",
+    "spriteFrame": {
+      "__uuid__": "48cy4UWgxBZZyyhnX97cC2"
+    },
+    "fontSize": 32,
+    "_fntConfig": {
+      "commonHeight": 110,
+      "fontSize": 32,
+      "atlasName": "plaza_gamedownload_font_jindu.png",
+      "fontDefDictionary": {
+        "9": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 376
+        },
+        "32": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 47
+        },
+        "37": {
+          "rect": {
+            "x": 0,
+            "y": 200,
+            "width": 69,
+            "height": 69
+          },
+          "xOffset": 0,
+          "yOffset": 41,
+          "xAdvance": 76
+        },
+        "48": {
+          "rect": {
+            "x": 213,
+            "y": 101,
+            "width": 68,
+            "height": 99
+          },
+          "xOffset": 0,
+          "yOffset": 11,
+          "xAdvance": 75
+        },
+        "49": {
+          "rect": {
+            "x": 213,
+            "y": 202,
+            "width": 52,
+            "height": 98
+          },
+          "xOffset": 0,
+          "yOffset": 11,
+          "xAdvance": 59
+        },
+        "50": {
+          "rect": {
+            "x": 142,
+            "y": 202,
+            "width": 69,
+            "height": 98
+          },
+          "xOffset": 0,
+          "yOffset": 11,
+          "xAdvance": 76
+        },
+        "51": {
+          "rect": {
+            "x": 142,
+            "y": 101,
+            "width": 69,
+            "height": 99
+          },
+          "xOffset": 0,
+          "yOffset": 11,
+          "xAdvance": 76
+        },
+        "52": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 73,
+            "height": 98
+          },
+          "xOffset": 0,
+          "yOffset": 11,
+          "xAdvance": 80
+        },
+        "53": {
+          "rect": {
+            "x": 0,
+            "y": 100,
+            "width": 70,
+            "height": 98
+          },
+          "xOffset": 0,
+          "yOffset": 12,
+          "xAdvance": 77
+        },
+        "54": {
+          "rect": {
+            "x": 75,
+            "y": 0,
+            "width": 69,
+            "height": 99
+          },
+          "xOffset": 0,
+          "yOffset": 11,
+          "xAdvance": 76
+        },
+        "55": {
+          "rect": {
+            "x": 72,
+            "y": 101,
+            "width": 68,
+            "height": 97
+          },
+          "xOffset": 0,
+          "yOffset": 12,
+          "xAdvance": 75
+        },
+        "56": {
+          "rect": {
+            "x": 146,
+            "y": 0,
+            "width": 68,
+            "height": 99
+          },
+          "xOffset": 0,
+          "yOffset": 11,
+          "xAdvance": 75
+        },
+        "57": {
+          "rect": {
+            "x": 71,
+            "y": 200,
+            "width": 69,
+            "height": 99
+          },
+          "xOffset": 0,
+          "yOffset": 11,
+          "xAdvance": 76
+        }
+      },
+      "kerningDict": {}
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "plaza_gamedownload_font_jindu",
+      "texture": "708Pqvv/1A4JBVvuV9Ym3i",
+      "rect": [
+        0,
+        0,
+        281,
+        300
+      ],
+      "offset": [
+        -1,
+        1
+      ],
+      "originalSize": [
+        283,
+        302
+      ]
+    }
+  }
+]

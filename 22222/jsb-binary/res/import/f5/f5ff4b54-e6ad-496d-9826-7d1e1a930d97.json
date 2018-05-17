@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "choose_on",
+    "texture": "0bupHqEHpDtaw8+XZKDaCD",
+    "rect": [
+      0,
+      0,
+      286,
+      60
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      286,
+      60
+    ]
+  }
+}

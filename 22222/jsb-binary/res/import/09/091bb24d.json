@@ -1,0 +1,204 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tariffe_num",
+      "texture": "47yRlqeBNAaYEpJwnQdebe",
+      "rect": [
+        0,
+        0,
+        198,
+        196
+      ],
+      "offset": [
+        -0.5,
+        0.5
+      ],
+      "originalSize": [
+        199,
+        197
+      ]
+    }
+  },
+  {
+    "__type__": "cc.BitmapFont",
+    "_name": "tariffe_num",
+    "spriteFrame": {
+      "__uuid__": "2eIFIvrmRJ/aXWhkjeMeTv"
+    },
+    "fontSize": 32,
+    "_fntConfig": {
+      "commonHeight": 89,
+      "fontSize": 32,
+      "atlasName": "tariffe_num.png",
+      "fontDefDictionary": {
+        "9": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 0
+        },
+        "32": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 29
+        },
+        "48": {
+          "rect": {
+            "x": 76,
+            "y": 124,
+            "width": 37,
+            "height": 58
+          },
+          "xOffset": 0,
+          "yOffset": 31,
+          "xAdvance": 42
+        },
+        "49": {
+          "rect": {
+            "x": 171,
+            "y": 0,
+            "width": 27,
+            "height": 57
+          },
+          "xOffset": 0,
+          "yOffset": 31,
+          "xAdvance": 32
+        },
+        "50": {
+          "rect": {
+            "x": 142,
+            "y": 58,
+            "width": 36,
+            "height": 56
+          },
+          "xOffset": 0,
+          "yOffset": 31,
+          "xAdvance": 41
+        },
+        "51": {
+          "rect": {
+            "x": 134,
+            "y": 0,
+            "width": 36,
+            "height": 57
+          },
+          "xOffset": 0,
+          "yOffset": 31,
+          "xAdvance": 41
+        },
+        "52": {
+          "rect": {
+            "x": 38,
+            "y": 139,
+            "width": 37,
+            "height": 57
+          },
+          "xOffset": 0,
+          "yOffset": 32,
+          "xAdvance": 42
+        },
+        "53": {
+          "rect": {
+            "x": 105,
+            "y": 66,
+            "width": 36,
+            "height": 57
+          },
+          "xOffset": 0,
+          "yOffset": 32,
+          "xAdvance": 41
+        },
+        "54": {
+          "rect": {
+            "x": 151,
+            "y": 115,
+            "width": 36,
+            "height": 57
+          },
+          "xOffset": 0,
+          "yOffset": 31,
+          "xAdvance": 41
+        },
+        "55": {
+          "rect": {
+            "x": 67,
+            "y": 66,
+            "width": 37,
+            "height": 57
+          },
+          "xOffset": 0,
+          "yOffset": 32,
+          "xAdvance": 42
+        },
+        "56": {
+          "rect": {
+            "x": 0,
+            "y": 139,
+            "width": 37,
+            "height": 57
+          },
+          "xOffset": 0,
+          "yOffset": 31,
+          "xAdvance": 42
+        },
+        "57": {
+          "rect": {
+            "x": 114,
+            "y": 124,
+            "width": 36,
+            "height": 58
+          },
+          "xOffset": 0,
+          "yOffset": 31,
+          "xAdvance": 41
+        },
+        "20803": {
+          "rect": {
+            "x": 67,
+            "y": 0,
+            "width": 66,
+            "height": 65
+          },
+          "xOffset": 0,
+          "yOffset": 30,
+          "xAdvance": 71
+        },
+        "35805": {
+          "rect": {
+            "x": 0,
+            "y": 71,
+            "width": 66,
+            "height": 67
+          },
+          "xOffset": 0,
+          "yOffset": 28,
+          "xAdvance": 71
+        },
+        "36153": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 66,
+            "height": 70
+          },
+          "xOffset": 0,
+          "yOffset": 27,
+          "xAdvance": 71
+        }
+      },
+      "kerningDict": {}
+    }
+  }
+]

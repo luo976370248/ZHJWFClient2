@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_addfast",
+    "texture": "88sUehrdlNC6mbdPJ9pHH5",
+    "rect": [
+      0,
+      35,
+      392,
+      271
+    ],
+    "offset": [
+      -0.5,
+      -17
+    ],
+    "originalSize": [
+      393,
+      307
+    ]
+  }
+}

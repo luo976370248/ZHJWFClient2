@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "send_btn",
+    "texture": "e6D0OaDCNNqqweQYxEYsUI",
+    "rect": [
+      0,
+      0,
+      258,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      258,
+      112
+    ]
+  }
+}

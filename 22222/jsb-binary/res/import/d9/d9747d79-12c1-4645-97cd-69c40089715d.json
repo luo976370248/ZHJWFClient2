@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shopcellpic",
+    "texture": "2b5++SVvtOY5CLYpqGj670",
+    "rect": [
+      2,
+      3,
+      243,
+      1018
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      247,
+      1023
+    ]
+  }
+}

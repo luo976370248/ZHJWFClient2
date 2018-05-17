@@ -1,0 +1,128 @@
+[
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "share.plist",
+    "_spriteFrames": {
+      "share_btn": {
+        "__uuid__": "fcLBK7Q6NDT4+C+0tMZnTj"
+      },
+      "share_circle": {
+        "__uuid__": "42nPVI1sJAJ5QTPujwHbGh"
+      },
+      "share_got": {
+        "__uuid__": "91X6u5ByRNPIVJHGdNQ1tF"
+      },
+      "share_title": {
+        "__uuid__": "84Pz44QQNE1bXRYzYICc6r"
+      },
+      "share_wx": {
+        "__uuid__": "30Bmi8009NF4TQ1VAb954b"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "share_wx",
+      "texture": "31LNbkruFICpAJHTfsvwr4",
+      "rect": [
+        688,
+        2,
+        132,
+        108
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        132,
+        118
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "share_circle",
+      "texture": "31LNbkruFICpAJHTfsvwr4",
+      "rect": [
+        688,
+        112,
+        118,
+        118
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        132,
+        118
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "share_title",
+      "texture": "31LNbkruFICpAJHTfsvwr4",
+      "rect": [
+        2,
+        2,
+        684,
+        133
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        684,
+        133
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "share_got",
+      "texture": "31LNbkruFICpAJHTfsvwr4",
+      "rect": [
+        233,
+        137,
+        143,
+        53
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        143,
+        53
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "share_btn",
+      "texture": "31LNbkruFICpAJHTfsvwr4",
+      "rect": [
+        2,
+        137,
+        229,
+        93
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        229,
+        93
+      ]
+    }
+  }
+]

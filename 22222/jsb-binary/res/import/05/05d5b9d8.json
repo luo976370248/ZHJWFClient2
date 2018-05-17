@@ -1,0 +1,4319 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_17_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1033,
+        413,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_3_08",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        517,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_22_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        861,
+        104,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_3_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        259,
+        413,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_17_07",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1291,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "chat_emoji.plist",
+    "_spriteFrames": {
+      "chat_emoji_10_01": {
+        "__uuid__": "77eg1mXoJIALoBqw3Lf1Zc"
+      },
+      "chat_emoji_10_02": {
+        "__uuid__": "6e+z7cl9NBoKTb8dRd8hVS"
+      },
+      "chat_emoji_10_03": {
+        "__uuid__": "3dqgdvoPNP0oD9soWlFFJL"
+      },
+      "chat_emoji_10_04": {
+        "__uuid__": "23rmpOn+xKdqjrvLjGW7Um"
+      },
+      "chat_emoji_10_05": {
+        "__uuid__": "80HX8KLGVPF7bp3Ziy1lmB"
+      },
+      "chat_emoji_10_06": {
+        "__uuid__": "ffUM/0O5xCl75x0uzZ1I4d"
+      },
+      "chat_emoji_10_07": {
+        "__uuid__": "24UREOTBVDpLcQaLfBAcWb"
+      },
+      "chat_emoji_10_08": {
+        "__uuid__": "c5eqcjkdtCVYTMSVNUnHoq"
+      },
+      "chat_emoji_11_01": {
+        "__uuid__": "c3kOhfl/lOKrN0YnUAiwSL"
+      },
+      "chat_emoji_11_02": {
+        "__uuid__": "8dxY/1/QBFXp/c3Mt2IGRe"
+      },
+      "chat_emoji_11_03": {
+        "__uuid__": "18J7z1pJ1AC42lFbWXUuC/"
+      },
+      "chat_emoji_11_04": {
+        "__uuid__": "f3mCQM2J9MaZYuidQHqNOC"
+      },
+      "chat_emoji_11_05": {
+        "__uuid__": "bd5tRkiu1MboTWcTdfsBTg"
+      },
+      "chat_emoji_11_06": {
+        "__uuid__": "15UH+GAyxGR4DknSq0JPq3"
+      },
+      "chat_emoji_11_07": {
+        "__uuid__": "2dv78+sIhAhKcY/7nD7wXh"
+      },
+      "chat_emoji_12_01": {
+        "__uuid__": "2ayu7LnkJH0a1pxCy0P0e1"
+      },
+      "chat_emoji_12_02": {
+        "__uuid__": "31msKhzapLpJkG3gYILLaS"
+      },
+      "chat_emoji_12_03": {
+        "__uuid__": "7fEkpI3lNC/Lh2xPBjjdEt"
+      },
+      "chat_emoji_12_04": {
+        "__uuid__": "eapYZ2tVpOsas2Drhw0UEf"
+      },
+      "chat_emoji_12_05": {
+        "__uuid__": "e8nEUG5hxLbqLC+cN6zQgp"
+      },
+      "chat_emoji_12_06": {
+        "__uuid__": "b33D3zQzpDLbt7jNJtqa9K"
+      },
+      "chat_emoji_12_07": {
+        "__uuid__": "21EJXuykRB17+npuJfzQzz"
+      },
+      "chat_emoji_12_08": {
+        "__uuid__": "ebEgi8X8BEbIIC+YPKcrda"
+      },
+      "chat_emoji_12_09": {
+        "__uuid__": "b0dHEuXb5PK6rxlIlcEt78"
+      },
+      "chat_emoji_12_10": {
+        "__uuid__": "c7fHIhKzdGyJWc2B/nRQ/z"
+      },
+      "chat_emoji_12_11": {
+        "__uuid__": "8af1QjYQhLmr/OBRuyGtVb"
+      },
+      "chat_emoji_13_01": {
+        "__uuid__": "a5pH6pdxBO3a1tNSAwOZMp"
+      },
+      "chat_emoji_13_02": {
+        "__uuid__": "1e+CzQLe9BypWgdRR1chv+"
+      },
+      "chat_emoji_13_03": {
+        "__uuid__": "4aBSxtD7FOpaGRvdtBXUbX"
+      },
+      "chat_emoji_13_04": {
+        "__uuid__": "f0GUHv2FZDx5MW/cl+boPK"
+      },
+      "chat_emoji_14_01": {
+        "__uuid__": "b67Y7/mz5BiatUMloBN2gB"
+      },
+      "chat_emoji_14_02": {
+        "__uuid__": "962ze6JQtNJ5EyjqjwBAqh"
+      },
+      "chat_emoji_14_03": {
+        "__uuid__": "acUlJFrmxKvrB9uXGNIzuw"
+      },
+      "chat_emoji_14_04": {
+        "__uuid__": "0d8cIakg1P5rEi+oqYeaij"
+      },
+      "chat_emoji_14_05": {
+        "__uuid__": "cdUNjO0UNAh6VoZRVNM9G1"
+      },
+      "chat_emoji_14_06": {
+        "__uuid__": "d26za0fNtEQ6cpSe8UB29c"
+      },
+      "chat_emoji_14_07": {
+        "__uuid__": "57+rllxO9AqZy8JJnUN39i"
+      },
+      "chat_emoji_14_08": {
+        "__uuid__": "62Ogj2FJ5P9rw0Q2gi86k8"
+      },
+      "chat_emoji_15_01": {
+        "__uuid__": "446uP2Cp1Mv5lm8+FYbcbn"
+      },
+      "chat_emoji_15_02": {
+        "__uuid__": "d78EcajIlNjolS0SCD+r5M"
+      },
+      "chat_emoji_15_03": {
+        "__uuid__": "24j1edjABOorvg7TpzKS5G"
+      },
+      "chat_emoji_16_01": {
+        "__uuid__": "aewAnyPlFIbp7DqUhXV3Gr"
+      },
+      "chat_emoji_16_02": {
+        "__uuid__": "91oWOvpxlIyIC2MmN6q3wJ"
+      },
+      "chat_emoji_16_03": {
+        "__uuid__": "451S8slStJrbL8IySRCyW4"
+      },
+      "chat_emoji_16_04": {
+        "__uuid__": "ebbbWk9N9ArIdDaQtJekGh"
+      },
+      "chat_emoji_16_05": {
+        "__uuid__": "ceimlVqdRFY6VUZ/yQReb5"
+      },
+      "chat_emoji_16_06": {
+        "__uuid__": "a0KzzAK0dKIZCJloSpdwAG"
+      },
+      "chat_emoji_16_07": {
+        "__uuid__": "a4uzoDPUxPi5FfroVGuier"
+      },
+      "chat_emoji_16_08": {
+        "__uuid__": "7ckBgWThJJ1bMsWENi8z4Z"
+      },
+      "chat_emoji_16_09": {
+        "__uuid__": "37MMOMwrhGg78pFYzcpCYI"
+      },
+      "chat_emoji_16_10": {
+        "__uuid__": "5bRmtOvU1Ov7gpoUXZ4gkH"
+      },
+      "chat_emoji_17_01": {
+        "__uuid__": "01yA4bf5NNGZM1u/kU7lt1"
+      },
+      "chat_emoji_17_02": {
+        "__uuid__": "daekArWd5JhbNESFB1yOIt"
+      },
+      "chat_emoji_17_03": {
+        "__uuid__": "8fO31Xy5dMzZelmr6xDkjF"
+      },
+      "chat_emoji_17_04": {
+        "__uuid__": "87prKHVj9C3K70HMVMbEi6"
+      },
+      "chat_emoji_17_05": {
+        "__uuid__": "9cWKXTRTFC/ppDTIFzLZGd"
+      },
+      "chat_emoji_17_06": {
+        "__uuid__": "bctDdRqv5AqYwdXYYlXSCc"
+      },
+      "chat_emoji_17_07": {
+        "__uuid__": "079/TrTdZPYYJKBGdQd828"
+      },
+      "chat_emoji_17_08": {
+        "__uuid__": "feiYLLZShHk4mjUKNyHZNh"
+      },
+      "chat_emoji_18_01": {
+        "__uuid__": "96SHCt65NFjJ+FA4yNFPFB"
+      },
+      "chat_emoji_18_02": {
+        "__uuid__": "debYSA/3FM47o3qbs7R6Oo"
+      },
+      "chat_emoji_18_03": {
+        "__uuid__": "cbIe1JSTxOJ4bbcE/4RblZ"
+      },
+      "chat_emoji_18_04": {
+        "__uuid__": "0cGPBQKs9EuaOpSc7uY70j"
+      },
+      "chat_emoji_18_05": {
+        "__uuid__": "f4KKV1CU9P7ZrbckPxjX8w"
+      },
+      "chat_emoji_18_06": {
+        "__uuid__": "8d8qsZ5ZlPfat+Z+LCJpBV"
+      },
+      "chat_emoji_18_07": {
+        "__uuid__": "daF4/04ptDXYu3nKmbvwHv"
+      },
+      "chat_emoji_18_08": {
+        "__uuid__": "d5RQSmUw1EYKRHRKk6mVvt"
+      },
+      "chat_emoji_19_01": {
+        "__uuid__": "acksE1hpFCw4rqc2jOuBJ2"
+      },
+      "chat_emoji_19_02": {
+        "__uuid__": "13g4fOt9RHJp9NFD00loWE"
+      },
+      "chat_emoji_19_03": {
+        "__uuid__": "bdFbxcg61C1bM3IIOMLoPx"
+      },
+      "chat_emoji_19_04": {
+        "__uuid__": "b51qhrMr1Kvr0a1KC4Hh/0"
+      },
+      "chat_emoji_19_05": {
+        "__uuid__": "14Uawn98JFbIbJtWLG6O8A"
+      },
+      "chat_emoji_19_06": {
+        "__uuid__": "9d96s+/chL26YO7wZw2zkA"
+      },
+      "chat_emoji_19_07": {
+        "__uuid__": "3fLpdiF91Nwacrl+SJiYmN"
+      },
+      "chat_emoji_1_01": {
+        "__uuid__": "38E5S8K3NFSrFmjfTGhCk0"
+      },
+      "chat_emoji_1_02": {
+        "__uuid__": "2bUrklX4hCt48zWQrW62BP"
+      },
+      "chat_emoji_1_03": {
+        "__uuid__": "5dQLikBaNOb6htXcC7FAEJ"
+      },
+      "chat_emoji_20_01": {
+        "__uuid__": "0apgKDV7xKDZhS/BaEaN8y"
+      },
+      "chat_emoji_20_02": {
+        "__uuid__": "a65idJIOFApJDUl9xk/qGh"
+      },
+      "chat_emoji_20_03": {
+        "__uuid__": "616POPCtRNXKWX0OT6R8Ry"
+      },
+      "chat_emoji_20_04": {
+        "__uuid__": "a7hvA7+29LDrs4gfU8hOkH"
+      },
+      "chat_emoji_20_05": {
+        "__uuid__": "a1t9YLuytEw6WkbSQf4VoS"
+      },
+      "chat_emoji_20_06": {
+        "__uuid__": "f3cKJSGBxHBrJLinmq2gGi"
+      },
+      "chat_emoji_21_01": {
+        "__uuid__": "547wDv7hZNBoyTeaMF5kjd"
+      },
+      "chat_emoji_21_02": {
+        "__uuid__": "25yOsoFgBHdYqrhJLZuZEM"
+      },
+      "chat_emoji_21_03": {
+        "__uuid__": "6dMWQPn6BPTLX05EQnl1bm"
+      },
+      "chat_emoji_21_04": {
+        "__uuid__": "90gS9/FqRL+awKl+0SOpPH"
+      },
+      "chat_emoji_21_05": {
+        "__uuid__": "52/GNk5wpF7ZAxLBXlKVQ1"
+      },
+      "chat_emoji_21_06": {
+        "__uuid__": "92C4rJTJFK4q1AfgK4NmVh"
+      },
+      "chat_emoji_21_07": {
+        "__uuid__": "3dWaa9YoxMUIWO49iHQeej"
+      },
+      "chat_emoji_21_08": {
+        "__uuid__": "c3WOQzr8lITI2PXRdWYR1f"
+      },
+      "chat_emoji_21_09": {
+        "__uuid__": "45fPjhH5RJAJf87e5QcHgq"
+      },
+      "chat_emoji_21_10": {
+        "__uuid__": "b5uu9j2wlCQa67TDYxyiVa"
+      },
+      "chat_emoji_21_11": {
+        "__uuid__": "c9r1xr511HTL0rm5mWJ5j/"
+      },
+      "chat_emoji_21_12": {
+        "__uuid__": "1e/r5rr1lEdajNFGti5H6z"
+      },
+      "chat_emoji_21_13": {
+        "__uuid__": "4b6/lmnqhOhbuy5ktsHB8W"
+      },
+      "chat_emoji_21_14": {
+        "__uuid__": "cc0KfHnxhLnaA+6xamNF20"
+      },
+      "chat_emoji_22_01": {
+        "__uuid__": "e2/Hb9D+pJ3ZiYs6iohOTc"
+      },
+      "chat_emoji_22_02": {
+        "__uuid__": "07GwA7o4lBS4bvbrU6Jmra"
+      },
+      "chat_emoji_22_03": {
+        "__uuid__": "1a3rLZsoxBV65fzG+YRd9y"
+      },
+      "chat_emoji_22_04": {
+        "__uuid__": "55SCqe77ZNi6xKatFNH2kS"
+      },
+      "chat_emoji_22_05": {
+        "__uuid__": "6d1Axf/DxOc5fYvAyUaBLw"
+      },
+      "chat_emoji_22_06": {
+        "__uuid__": "9bD6HINM1DUbpsppbfdIbr"
+      },
+      "chat_emoji_22_07": {
+        "__uuid__": "c1qnn3GcJMM7GOrFQLMWZ3"
+      },
+      "chat_emoji_22_08": {
+        "__uuid__": "c453oEbcZHP5xa6Z7JYnjp"
+      },
+      "chat_emoji_22_09": {
+        "__uuid__": "dfWZEms4tIPIiiKE1JquxZ"
+      },
+      "chat_emoji_22_10": {
+        "__uuid__": "5fzIHpo61I/6xBb4+sTGY0"
+      },
+      "chat_emoji_22_11": {
+        "__uuid__": "e4jrMBIjxIb4l9QrBEiHhU"
+      },
+      "chat_emoji_23_01": {
+        "__uuid__": "ff5T36tl5OaoL0Yb5sCxmk"
+      },
+      "chat_emoji_23_02": {
+        "__uuid__": "7cAUSsOxVD77mKADCwVq7q"
+      },
+      "chat_emoji_24_01": {
+        "__uuid__": "c0lClGho5O8ZKtNM0WjuWe"
+      },
+      "chat_emoji_24_02": {
+        "__uuid__": "fc5iM6Pm1GmZxWyrQ1vBsQ"
+      },
+      "chat_emoji_24_03": {
+        "__uuid__": "84MsiC1X9J3odZKPPyEfIj"
+      },
+      "chat_emoji_24_04": {
+        "__uuid__": "756myvRohAqaKYZMBDJdgZ"
+      },
+      "chat_emoji_24_05": {
+        "__uuid__": "b7cMbG67NNm7yh8NQTWbrB"
+      },
+      "chat_emoji_24_06": {
+        "__uuid__": "56OgRnbN5JdI72iteSHoWd"
+      },
+      "chat_emoji_24_07": {
+        "__uuid__": "dd6QmYsX5KgbRYt+KAg0AZ"
+      },
+      "chat_emoji_25_01": {
+        "__uuid__": "84q8Y5hHtDnpkE7OO9QUTj"
+      },
+      "chat_emoji_25_02": {
+        "__uuid__": "88jpnQtCdFu4IPo9Bwtb5A"
+      },
+      "chat_emoji_25_03": {
+        "__uuid__": "bdzD6qye9EoKEwV718+3pi"
+      },
+      "chat_emoji_25_04": {
+        "__uuid__": "ecED8Das1IO6j02BMAzoWY"
+      },
+      "chat_emoji_25_05": {
+        "__uuid__": "4dAepAK6pKvLMYd+I17Fi+"
+      },
+      "chat_emoji_25_06": {
+        "__uuid__": "ceYlJ2GChLWIO+mRqiaYYg"
+      },
+      "chat_emoji_25_07": {
+        "__uuid__": "99oo1Sn19JI7uzeZUe5zpL"
+      },
+      "chat_emoji_25_08": {
+        "__uuid__": "800GD0aq9MRbHQHyTxr6oM"
+      },
+      "chat_emoji_25_09": {
+        "__uuid__": "adsPRmzb5FGqlExlRJdjgn"
+      },
+      "chat_emoji_25_10": {
+        "__uuid__": "beigtCaUJBSbwTAs5QEiSr"
+      },
+      "chat_emoji_26_01": {
+        "__uuid__": "0b1+X+yylF3Lg+A4HFvw0P"
+      },
+      "chat_emoji_26_02": {
+        "__uuid__": "8e1+czPidGrLPEKfFaORxe"
+      },
+      "chat_emoji_26_03": {
+        "__uuid__": "95YouzJGVLXI1lfPuJJ/Tr"
+      },
+      "chat_emoji_26_04": {
+        "__uuid__": "81EPoaufVCPa6E+VpHOoOX"
+      },
+      "chat_emoji_27_01": {
+        "__uuid__": "64DOkwYdVOcbAwy9siGkYo"
+      },
+      "chat_emoji_27_02": {
+        "__uuid__": "8aF3zpzIREpZO6Usg6UG/7"
+      },
+      "chat_emoji_27_03": {
+        "__uuid__": "34Yjff2DlJr6IKlyRKPkq0"
+      },
+      "chat_emoji_2_01": {
+        "__uuid__": "7aPWW1GrlATpZ+M107JiO0"
+      },
+      "chat_emoji_2_02": {
+        "__uuid__": "e8NLdH7SNCuJtos31iW257"
+      },
+      "chat_emoji_2_03": {
+        "__uuid__": "9bDYOQmZJBpKQmoqdhosev"
+      },
+      "chat_emoji_2_04": {
+        "__uuid__": "a4SbYZANtFPqleMELSNBI4"
+      },
+      "chat_emoji_3_01": {
+        "__uuid__": "379ZkgFa1Ho6F6wd6dvyZg"
+      },
+      "chat_emoji_3_02": {
+        "__uuid__": "0dq+fHqiRPmY5yUfiXyBa2"
+      },
+      "chat_emoji_3_03": {
+        "__uuid__": "daU8rzqdFPmJVUGe2TRYGg"
+      },
+      "chat_emoji_3_04": {
+        "__uuid__": "07vmTRyJNEp6khQmuDEiyk"
+      },
+      "chat_emoji_3_05": {
+        "__uuid__": "e49bxd1oRO1pPel8Zt4Lru"
+      },
+      "chat_emoji_3_06": {
+        "__uuid__": "75XoDPNctE4ouVgMNeyMow"
+      },
+      "chat_emoji_3_07": {
+        "__uuid__": "70ElUpQR5BRaUkhzNfzrhV"
+      },
+      "chat_emoji_3_08": {
+        "__uuid__": "06uNDErE9FT7xr/Aw+wBWb"
+      },
+      "chat_emoji_3_09": {
+        "__uuid__": "33LOognbtI+pEY+iRDQqbE"
+      },
+      "chat_emoji_3_10": {
+        "__uuid__": "73wEzMZFlN3ofhruH+DuaB"
+      },
+      "chat_emoji_3_11": {
+        "__uuid__": "74dcCAUh1HOp+ZgYuwBibQ"
+      },
+      "chat_emoji_3_12": {
+        "__uuid__": "98CQMXC0pEgYM1iEekXfK6"
+      },
+      "chat_emoji_4_01": {
+        "__uuid__": "cfzV4BVb5Hw5WyTFEeNT+8"
+      },
+      "chat_emoji_4_02": {
+        "__uuid__": "a1ukiJM5tAnI8l4qrrQnYY"
+      },
+      "chat_emoji_4_03": {
+        "__uuid__": "0d38D8bitCcJHUiNHd0+iK"
+      },
+      "chat_emoji_4_04": {
+        "__uuid__": "3bkPHC4wBPkZ21imQdM5jf"
+      },
+      "chat_emoji_4_05": {
+        "__uuid__": "22HQUw9BNFHJmV4BZIl/qe"
+      },
+      "chat_emoji_4_06": {
+        "__uuid__": "9e+LNJwA5EMbFCyR3Fi4me"
+      },
+      "chat_emoji_4_07": {
+        "__uuid__": "eemOg/tstMz4sOen51cDFx"
+      },
+      "chat_emoji_4_08": {
+        "__uuid__": "7e7gotG9ROuZ4I6SEOoGaq"
+      },
+      "chat_emoji_4_09": {
+        "__uuid__": "414eLBHiJABI2eYyNBbyM+"
+      },
+      "chat_emoji_4_10": {
+        "__uuid__": "8aHLRhHhFEvYFYGW+1jn3T"
+      },
+      "chat_emoji_5_01": {
+        "__uuid__": "5bhhgwgrxMNbZk8Cp/kq49"
+      },
+      "chat_emoji_5_02": {
+        "__uuid__": "cdk93xritOCa298Z8hXtQu"
+      },
+      "chat_emoji_6_01": {
+        "__uuid__": "f9Fwo0BA1C25lVFC77a3/K"
+      },
+      "chat_emoji_6_02": {
+        "__uuid__": "2cOgFj9GJGw5w8tt2kOvv3"
+      },
+      "chat_emoji_6_03": {
+        "__uuid__": "51x84IZ11Drqce3S51YyFc"
+      },
+      "chat_emoji_6_04": {
+        "__uuid__": "826npR44tGWoXBKGhfzVis"
+      },
+      "chat_emoji_6_05": {
+        "__uuid__": "acVobGv7VNyZMDl7sdGaSt"
+      },
+      "chat_emoji_7_01": {
+        "__uuid__": "ca9uOTvYNNPbpZYn7zcQJT"
+      },
+      "chat_emoji_7_02": {
+        "__uuid__": "97zS29S75CHrIS5OCA6v3g"
+      },
+      "chat_emoji_8_01": {
+        "__uuid__": "c61V1LmmNDOIufbgSMrN97"
+      },
+      "chat_emoji_8_02": {
+        "__uuid__": "29XtFGa9RPULgWj9aqnstm"
+      },
+      "chat_emoji_8_03": {
+        "__uuid__": "calS93ea5D25qlcttJ+dL9"
+      },
+      "chat_emoji_8_04": {
+        "__uuid__": "1amOiK+uVHjaNvuflLpMxs"
+      },
+      "chat_emoji_8_05": {
+        "__uuid__": "dei+DC/JdBArpRTIVTu1sc"
+      },
+      "chat_emoji_8_06": {
+        "__uuid__": "0ePpg8SEpCdJbp4TpJxM/W"
+      },
+      "chat_emoji_8_07": {
+        "__uuid__": "3dgcejhBFKRqLHcSf78C6e"
+      },
+      "chat_emoji_8_08": {
+        "__uuid__": "48Uum/KqpFCKbU1tSKdU5O"
+      },
+      "chat_emoji_9_01": {
+        "__uuid__": "4apFG4luZLqarvOjGc5DdY"
+      },
+      "chat_emoji_9_02": {
+        "__uuid__": "4a+5GiFJdHyJj0zSJoM4Fu"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_20_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1033,
+        104,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_26_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        87,
+        825,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_18_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        861,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_3_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        431,
+        207,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_4_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        431,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_14_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        947,
+        722,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_8_06",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        87,
+        104,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_19_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1119,
+        104,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_19_05",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        861,
+        413,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_11_06",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1291,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_11_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1031,
+        928,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_8_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_22_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        775,
+        207,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_13_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1377,
+        207,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_21_12",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        431,
+        722,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_12_07",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1033,
+        722,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_4_05",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        431,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_10_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1377,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_10_07",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1205,
+        825,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_15_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1119,
+        413,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_21_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        413,
+        928,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_8_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        173,
+        104,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_12_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1119,
+        722,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_1_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        517,
+        825,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_6_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1340,
+        928,
+        85,
+        100
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        100
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_11_07",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1205,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_12_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1033,
+        825,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_3_09",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        431,
+        104,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_27_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        259,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_16_09",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1119,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_3_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        517,
+        104,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_1_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        603,
+        722,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_4_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_21_07",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        775,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_8_07",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1,
+        207,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_10_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1291,
+        825,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_19_07",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        689,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_4_09",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        259,
+        207,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_15_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1291,
+        207,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_21_09",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        775,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_16_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        861,
+        722,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_8_08",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        87,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_13_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1291,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_9_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1,
+        104,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_9_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_21_13",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        310,
+        928,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_25_05",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        517,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_6_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        259,
+        104,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_21_05",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        947,
+        104,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_21_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        517,
+        722,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_22_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        689,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_24_06",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        259,
+        722,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_14_07",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1377,
+        104,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_16_10",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1033,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_5_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        87,
+        413,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_1_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1119,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_22_10",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        259,
+        825,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_20_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        861,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_14_08",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1119,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_27_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        431,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_21_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        431,
+        825,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_22_05",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        603,
+        413,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_10_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1237,
+        928,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_3_07",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1,
+        722,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_3_10",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        345,
+        207,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_3_11",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        259,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_3_06",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        87,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_24_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        431,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_10_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1377,
+        722,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_2_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        173,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_23_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1441,
+        927,
+        85,
+        100
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        100
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_16_08",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1205,
+        207,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_4_08",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        345,
+        104,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_12_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1377,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_10_05",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1291,
+        722,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_25_08",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        259,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_26_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        517,
+        207,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_6_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1377,
+        825,
+        85,
+        101
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        101
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_24_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        517,
+        413,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_25_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        173,
+        825,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_17_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        775,
+        722,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_25_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        775,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_27_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        345,
+        413,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_4_10",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        173,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_12_11",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1377,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_11_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1205,
+        722,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_18_06",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        689,
+        722,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_26_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        689,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_17_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        861,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_21_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1033,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_16_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        947,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_21_06",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        861,
+        207,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_26_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        603,
+        104,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_18_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1119,
+        207,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_14_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1119,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_7_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1,
+        413,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_3_12",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        173,
+        413,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_25_07",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        345,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_2_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1,
+        825,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_22_06",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        517,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_17_05",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        619,
+        928,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_19_06",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        775,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_4_06",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_16_06",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1377,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_20_05",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        689,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_4_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_2_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        603,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_16_07",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1291,
+        104,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_13_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        947,
+        825,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_20_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        947,
+        207,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_20_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        775,
+        413,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_14_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1033,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_6_05",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        173,
+        207,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_19_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1205,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_25_09",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        173,
+        722,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_16_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1033,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_12_09",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1205,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_12_06",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1119,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_21_10",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        603,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_19_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        947,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_14_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1205,
+        413,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_24_05",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        345,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_17_06",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        689,
+        825,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_19_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1033,
+        207,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_25_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        689,
+        104,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_11_05",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1377,
+        413,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_25_10",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1,
+        928,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_24_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        689,
+        207,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_22_07",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        431,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_21_08",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        689,
+        413,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_11_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1291,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_22_08",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        345,
+        722,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_10_08",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1377,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_8_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        259,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_12_10",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1291,
+        413,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_21_11",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        517,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_8_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        87,
+        207,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_7_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        87,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_18_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        947,
+        413,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_21_14",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        345,
+        825,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_14_05",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        825,
+        928,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_5_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_25_06",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        431,
+        413,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_16_05",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        775,
+        825,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_4_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        87,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_14_06",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        861,
+        825,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_18_08",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        603,
+        825,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_15_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1205,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_18_07",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        516,
+        928,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_3_03",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        345,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_17_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        947,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_24_07",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        104,
+        928,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_18_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1033,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_8_05",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        173,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_22_09",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        207,
+        928,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_22_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        947,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_22_11",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        861,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_3_05",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        173,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_2_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        87,
+        722,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_12_05",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1205,
+        516,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_12_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1291,
+        413,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_12_08",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        928,
+        928,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_16_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        722,
+        928,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_25_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        603,
+        207,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_4_07",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        431,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_13_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1377,
+        207,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_20_06",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        603,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_11_04",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1119,
+        825,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_18_05",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        775,
+        619,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_6_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        345,
+        1,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_24_02",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        603,
+        310,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_17_08",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1205,
+        104,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_10_06",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        1134,
+        928,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chat_emoji_23_01",
+      "texture": "79UnQCJvBOM7Fa5qjAKW0e",
+      "rect": [
+        775,
+        104,
+        85,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        85,
+        102
+      ]
+    }
+  }
+]

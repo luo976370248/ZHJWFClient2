@@ -1,0 +1,496 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "kefudaichong",
+      "texture": "5ezPoq99NK/KP2I9J/IDAW",
+      "rect": [
+        0,
+        0,
+        323,
+        67
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        323,
+        67
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "HallShop",
+      "data": {
+        "__id__": 1
+      },
+      "asyncLoadAssets": null
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "HallShop",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 3
+        },
+        {
+          "__id__": 4
+        },
+        {
+          "__id__": 5
+        },
+        {
+          "__id__": 6
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "4flTQgk+lEn4RHY4OAsEMs"
+        },
+        "fileId": "6d/Lv4wZ9JAIfRLHKPUfHw"
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "New Sprite(Splash)",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "a2MjXRFdtLlYQ5ouAFv/+R"
+          },
+          "_sizeMode": 0
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 2
+          },
+          "_N$interactable": false,
+          "_N$target": {
+            "__id__": 2
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "4flTQgk+lEn4RHY4OAsEMs"
+        },
+        "fileId": "d5/9fgRx5KrZDdoRver6Uh"
+      },
+      "_opacity": 125,
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 125,
+        "g": 125,
+        "b": 125
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "chongzhi_bj",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "abDfxOKndGUpXyWaNG/5iv"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "4flTQgk+lEn4RHY4OAsEMs"
+        },
+        "fileId": "d30Zz2gUBGEpmw+J8K37dy"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 1029,
+        "height": 545
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "New Button",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 4
+          },
+          "_spriteFrame": {
+            "__uuid__": "c58mZ4alRMRqNvZO2oNrDt"
+          },
+          "_type": 1,
+          "_sizeMode": 2
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 4
+          },
+          "transition": 2,
+          "pressedColor": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "_N$interactable": false,
+          "_N$normalColor": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "_N$disabledColor": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "_N$normalSprite": {
+            "__uuid__": "c58mZ4alRMRqNvZO2oNrDt"
+          },
+          "_N$disabledSprite": {
+            "__uuid__": "c58mZ4alRMRqNvZO2oNrDt"
+          },
+          "_N$target": {
+            "__id__": 4
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "4flTQgk+lEn4RHY4OAsEMs"
+        },
+        "fileId": "5eD3Y7od1LC54xUSlA3lW/"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 323,
+        "height": 67
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": -333,
+        "y": 305
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "New Button",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 5
+          },
+          "_spriteFrame": {
+            "__uuid__": "0eZQhPEvFF2KEE4a89BQTh"
+          },
+          "_type": 1,
+          "_sizeMode": 2
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 5
+          },
+          "transition": 2,
+          "pressedColor": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "_N$normalColor": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "_N$disabledColor": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "_N$normalSprite": {
+            "__uuid__": "0eZQhPEvFF2KEE4a89BQTh"
+          },
+          "_N$disabledSprite": {
+            "__uuid__": "5d9BYv4jdIiLfTG41uL2jM"
+          },
+          "_N$target": {
+            "__id__": 5
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "4flTQgk+lEn4RHY4OAsEMs"
+        },
+        "fileId": "0bLouLjs9IXKt+auCsFcmW"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 323,
+        "height": 67
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "y": 305
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "New Button",
+      "_parent": {
+        "__id__": 1
+      },
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 6
+          },
+          "_spriteFrame": {
+            "__uuid__": "8ex0/2lt5NCJpPulzqFL1V"
+          },
+          "_type": 1,
+          "_sizeMode": 2
+        },
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 6
+          },
+          "transition": 2,
+          "pressedColor": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "_N$normalColor": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "_N$disabledColor": {
+            "__type__": "cc.Color",
+            "r": 255,
+            "g": 255,
+            "b": 255
+          },
+          "_N$normalSprite": {
+            "__uuid__": "8ex0/2lt5NCJpPulzqFL1V"
+          },
+          "_N$disabledSprite": {
+            "__uuid__": "b49LLL0slMPINoFnOxwwoy"
+          },
+          "_N$target": {
+            "__id__": 6
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "4flTQgk+lEn4RHY4OAsEMs"
+        },
+        "fileId": "5b5tve4eRNQ65BMyMnV8L9"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 323,
+        "height": 67
+      },
+      "_position": {
+        "__type__": "cc.Vec2",
+        "x": 335,
+        "y": 305
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "kefudaichong_xuanzhong",
+      "texture": "32urn19n5NRY2XWweShTFy",
+      "rect": [
+        0,
+        0,
+        323,
+        67
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        323,
+        67
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "zaixian_chongzhi",
+      "texture": "c61t5EPgdNc5utwgWBNjto",
+      "rect": [
+        0,
+        0,
+        323,
+        67
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        323,
+        67
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "default_sprite_splash",
+      "texture": "02delMVqdBD70a/HSD99FK",
+      "rect": [
+        0,
+        0,
+        2,
+        2
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chongzhi_bj",
+      "texture": "39z7Jus85EfJXitMAnJdo3",
+      "rect": [
+        0,
+        0,
+        1029,
+        545
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1029,
+        545
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "zaixian_chongzhi_xuanzhong",
+      "texture": "02NnXGEvNFjbKODweQnysz",
+      "rect": [
+        0,
+        0,
+        323,
+        67
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        323,
+        67
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "yuanbao_xuanzhong",
+      "texture": "4852xnGMROkpOS3bpS6bt4",
+      "rect": [
+        0,
+        0,
+        323,
+        67
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        323,
+        67
+      ]
+    }
+  }
+]

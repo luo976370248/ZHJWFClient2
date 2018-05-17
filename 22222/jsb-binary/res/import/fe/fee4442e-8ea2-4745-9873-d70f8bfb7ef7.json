@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "horizontalbar",
+    "texture": "3e1wjdUElMxZc/zfDly5T0",
+    "rect": [
+      0,
+      0,
+      9,
+      5
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      9,
+      5
+    ]
+  }
+}

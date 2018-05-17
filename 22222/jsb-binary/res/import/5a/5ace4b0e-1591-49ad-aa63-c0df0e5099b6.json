@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ok",
+    "texture": "a4kBd3DnlG0LUC1v6B330S",
+    "rect": [
+      0,
+      0,
+      258,
+      112
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      258,
+      112
+    ]
+  }
+}

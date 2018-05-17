@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CustomizeLayer",
+    "texture": "24m+uoxUZDiYPJiAg9AwqK",
+    "rect": [
+      2,
+      2,
+      589,
+      2003
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      593,
+      2007
+    ]
+  }
+}

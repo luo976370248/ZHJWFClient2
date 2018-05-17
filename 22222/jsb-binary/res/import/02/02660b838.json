@@ -1,0 +1,204 @@
+[
+  {
+    "__type__": "cc.BitmapFont",
+    "_name": "input_num",
+    "spriteFrame": {
+      "__uuid__": "cegAZm1vhPwJtrs5y5X+5l"
+    },
+    "fontSize": 32,
+    "_fntConfig": {
+      "commonHeight": 42,
+      "fontSize": 32,
+      "atlasName": "input_num.png",
+      "fontDefDictionary": {
+        "9": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 0
+        },
+        "32": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 4
+        },
+        "48": {
+          "rect": {
+            "x": 139,
+            "y": 87,
+            "width": 34,
+            "height": 53
+          },
+          "xOffset": 58,
+          "yOffset": -11,
+          "xAdvance": 35
+        },
+        "49": {
+          "rect": {
+            "x": 221,
+            "y": 0,
+            "width": 20,
+            "height": 52
+          },
+          "xOffset": 65,
+          "yOffset": -11,
+          "xAdvance": 21
+        },
+        "50": {
+          "rect": {
+            "x": 173,
+            "y": 141,
+            "width": 34,
+            "height": 52
+          },
+          "xOffset": 58,
+          "yOffset": -11,
+          "xAdvance": 35
+        },
+        "51": {
+          "rect": {
+            "x": 151,
+            "y": 0,
+            "width": 34,
+            "height": 53
+          },
+          "xOffset": 58,
+          "yOffset": -11,
+          "xAdvance": 35
+        },
+        "52": {
+          "rect": {
+            "x": 137,
+            "y": 156,
+            "width": 35,
+            "height": 51
+          },
+          "xOffset": 57,
+          "yOffset": -10,
+          "xAdvance": 36
+        },
+        "53": {
+          "rect": {
+            "x": 186,
+            "y": 0,
+            "width": 34,
+            "height": 52
+          },
+          "xOffset": 58,
+          "yOffset": -10,
+          "xAdvance": 35
+        },
+        "54": {
+          "rect": {
+            "x": 174,
+            "y": 54,
+            "width": 34,
+            "height": 53
+          },
+          "xOffset": 58,
+          "yOffset": -11,
+          "xAdvance": 35
+        },
+        "55": {
+          "rect": {
+            "x": 209,
+            "y": 53,
+            "width": 33,
+            "height": 51
+          },
+          "xOffset": 58,
+          "yOffset": -10,
+          "xAdvance": 34
+        },
+        "56": {
+          "rect": {
+            "x": 208,
+            "y": 162,
+            "width": 34,
+            "height": 53
+          },
+          "xOffset": 58,
+          "yOffset": -11,
+          "xAdvance": 35
+        },
+        "57": {
+          "rect": {
+            "x": 208,
+            "y": 108,
+            "width": 34,
+            "height": 53
+          },
+          "xOffset": 58,
+          "yOffset": -11,
+          "xAdvance": 35
+        },
+        "97": {
+          "rect": {
+            "x": 0,
+            "y": 87,
+            "width": 138,
+            "height": 68
+          },
+          "xOffset": 6,
+          "yOffset": -19,
+          "xAdvance": 139
+        },
+        "98": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 150,
+            "height": 86
+          },
+          "xOffset": 0,
+          "yOffset": -29,
+          "xAdvance": 151
+        },
+        "99": {
+          "rect": {
+            "x": 0,
+            "y": 156,
+            "width": 136,
+            "height": 69
+          },
+          "xOffset": 7,
+          "yOffset": -21,
+          "xAdvance": 137
+        }
+      },
+      "kerningDict": {}
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "input_num",
+      "texture": "abstQZmm5OQqXY1eVTJGGh",
+      "rect": [
+        0,
+        0,
+        242,
+        225
+      ],
+      "offset": [
+        -0.5,
+        0.5
+      ],
+      "originalSize": [
+        243,
+        226
+      ]
+    }
+  }
+]

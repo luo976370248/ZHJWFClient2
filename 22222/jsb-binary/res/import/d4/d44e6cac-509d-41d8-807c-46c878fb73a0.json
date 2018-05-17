@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "earoff2",
+    "texture": "acnhPfPg1OVpCqKlrxZg1Q",
+    "rect": [
+      9,
+      0,
+      112,
+      201
+    ],
+    "offset": [
+      0,
+      13
+    ],
+    "originalSize": [
+      130,
+      227
+    ]
+  }
+}

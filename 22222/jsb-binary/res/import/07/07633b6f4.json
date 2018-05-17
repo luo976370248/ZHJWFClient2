@@ -1,0 +1,276 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "search_btn",
+      "texture": "86c/NkLuBPI7/oIJfoOagx",
+      "rect": [
+        609,
+        270,
+        305,
+        124
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        305,
+        124
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pboss",
+      "texture": "86c/NkLuBPI7/oIJfoOagx",
+      "rect": [
+        2,
+        310,
+        234,
+        154
+      ],
+      "offset": [
+        0,
+        -1
+      ],
+      "originalSize": [
+        234,
+        156
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "ptop",
+      "texture": "86c/NkLuBPI7/oIJfoOagx",
+      "rect": [
+        238,
+        137,
+        684,
+        131
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        684,
+        133
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "psign_bg",
+      "texture": "86c/NkLuBPI7/oIJfoOagx",
+      "rect": [
+        527,
+        423,
+        70,
+        60
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        70,
+        60
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pManagement",
+      "texture": "86c/NkLuBPI7/oIJfoOagx",
+      "rect": [
+        474,
+        270,
+        209,
+        51
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        209,
+        51
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "p_getv",
+      "texture": "86c/NkLuBPI7/oIJfoOagx",
+      "rect": [
+        609,
+        396,
+        258,
+        112
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        258,
+        112
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "btn_share_gold",
+      "texture": "86c/NkLuBPI7/oIJfoOagx",
+      "rect": [
+        2,
+        2,
+        306,
+        124
+      ],
+      "offset": [
+        -1,
+        -1
+      ],
+      "originalSize": [
+        308,
+        126
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pshare_top",
+      "texture": "86c/NkLuBPI7/oIJfoOagx",
+      "rect": [
+        527,
+        270,
+        151,
+        80
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        287,
+        80
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "personalinfo.plist",
+    "_spriteFrames": {
+      "btn_insure": {
+        "__uuid__": "cdbG0B5FNPeo0T7W8u1kRs"
+      },
+      "btn_share_gold": {
+        "__uuid__": "701LK3GqdC27KAHgclTw9O"
+      },
+      "pManagement": {
+        "__uuid__": "4fSmi1Z/1OLL/VO6d+kI25"
+      },
+      "p_ck": {
+        "__uuid__": "e30exf2PtIPqS1WrJfYMIi"
+      },
+      "p_getv": {
+        "__uuid__": "57XETeBolCWa+e64MhgzJp"
+      },
+      "pbind_top": {
+        "__uuid__": "d5QgXPnB5JwbxWxBUKoLwa"
+      },
+      "pboss": {
+        "__uuid__": "15wnOdH0pLgrgIrHalK41i"
+      },
+      "pshare_top": {
+        "__uuid__": "7bNBneCZNHG7Afa003PZ5S"
+      },
+      "psign_bg": {
+        "__uuid__": "33WxB0SKZFG5i5g02wWUrJ"
+      },
+      "ptop": {
+        "__uuid__": "2dgSCl4IFEHbjwvZiaidPC"
+      },
+      "search_btn": {
+        "__uuid__": "09m5DzC7pLUrRMeC/TyxF9"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "btn_insure",
+      "texture": "86c/NkLuBPI7/oIJfoOagx",
+      "rect": [
+        238,
+        270,
+        234,
+        234
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        234,
+        234
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pbind_top",
+      "texture": "86c/NkLuBPI7/oIJfoOagx",
+      "rect": [
+        238,
+        2,
+        684,
+        133
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        684,
+        133
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "p_ck",
+      "texture": "86c/NkLuBPI7/oIJfoOagx",
+      "rect": [
+        128,
+        2,
+        269,
+        99
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        269,
+        99
+      ],
+      "rotated": 1
+    }
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "goldicon.plist",
+    "_spriteFrames": {
+      "50": {
+        "__uuid__": "46CN0aHfNB5Jq7JViR4udF"
+      },
+      "150": {
+        "__uuid__": "56/qyzRChLx7DIYK65gI+2"
+      },
+      "250": {
+        "__uuid__": "5eCBKBghxHRZWkyc3cyzjW"
+      },
+      "500": {
+        "__uuid__": "f0sgFJiPhD66/je6/wVZ30"
+      },
+      "1700": {
+        "__uuid__": "20TChodxlO1ZOK/SJeXxWd"
+      },
+      "3000": {
+        "__uuid__": "04y9jxpShOX6nIMFPF87pT"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "3000",
+      "texture": "8fMjuSIeVE26SVYvelCqgM",
+      "rect": [
+        2,
+        387,
+        261,
+        154
+      ],
+      "offset": [
+        0,
+        -4
+      ],
+      "originalSize": [
+        261,
+        162
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "1700",
+      "texture": "8fMjuSIeVE26SVYvelCqgM",
+      "rect": [
+        2,
+        2,
+        227,
+        162
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        261,
+        162
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "50",
+      "texture": "8fMjuSIeVE26SVYvelCqgM",
+      "rect": [
+        2,
+        854,
+        103,
+        90
+      ],
+      "offset": [
+        0,
+        -36
+      ],
+      "originalSize": [
+        261,
+        162
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "150",
+      "texture": "8fMjuSIeVE26SVYvelCqgM",
+      "rect": [
+        2,
+        758,
+        139,
+        94
+      ],
+      "offset": [
+        0,
+        -34
+      ],
+      "originalSize": [
+        261,
+        162
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "250",
+      "texture": "8fMjuSIeVE26SVYvelCqgM",
+      "rect": [
+        2,
+        650,
+        153,
+        106
+      ],
+      "offset": [
+        0,
+        -28
+      ],
+      "originalSize": [
+        261,
+        162
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "500",
+      "texture": "8fMjuSIeVE26SVYvelCqgM",
+      "rect": [
+        2,
+        231,
+        161,
+        154
+      ],
+      "offset": [
+        0,
+        -4
+      ],
+      "originalSize": [
+        261,
+        162
+      ]
+    }
+  }
+]

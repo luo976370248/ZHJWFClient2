@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "WifiSignal",
+    "texture": "30rGzXA7ZNE4mUOVdbr3HK",
+    "rect": [
+      0,
+      0,
+      1407,
+      400
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1407,
+      400
+    ]
+  }
+}

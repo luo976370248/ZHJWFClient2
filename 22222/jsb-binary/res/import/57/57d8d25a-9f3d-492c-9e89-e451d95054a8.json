@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "game_settings",
+    "texture": "e0np1UMx5B+5A24RhuRfuU",
+    "rect": [
+      2,
+      2,
+      497,
+      1003
+    ],
+    "offset": [
+      -5.5,
+      8.5
+    ],
+    "originalSize": [
+      512,
+      1024
+    ]
+  }
+}

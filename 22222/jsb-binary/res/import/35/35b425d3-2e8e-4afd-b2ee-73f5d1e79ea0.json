@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "white_btn",
+    "texture": "03DO+0yehLO6+V0dgTzmwc",
+    "rect": [
+      10,
+      10,
+      0,
+      0
+    ],
+    "offset": [
+      5,
+      -5
+    ],
+    "originalSize": [
+      10,
+      10
+    ]
+  }
+}

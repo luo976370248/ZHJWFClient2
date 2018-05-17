@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "earon",
+    "texture": "8bg60WJE1JOJnlG1zcgto7",
+    "rect": [
+      0,
+      0,
+      248,
+      100
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      249,
+      100
+    ]
+  }
+}

@@ -1,0 +1,1405 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_28",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        898,
+        620,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_54",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        208,
+        1042,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_52",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        208,
+        1598,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_36",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        414,
+        764,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_53",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        208,
+        1320,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_12",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1454,
+        826,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_26",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1454,
+        620,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_19",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        826,
+        1248,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_66",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        208,
+        2,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_38",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1526,
+        414,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_43",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1804,
+        208,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_10",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1176,
+        1032,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_56",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        208,
+        486,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_13",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1176,
+        826,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_42",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        414,
+        414,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_33",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        414,
+        1598,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_18",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        826,
+        1526,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_35",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        414,
+        1042,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_34",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        414,
+        1320,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_45",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1248,
+        208,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_2",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        2,
+        558,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_4",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        2,
+        2,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_23",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        620,
+        1248,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_5",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1238,
+        1382,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_25",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1732,
+        764,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_49",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        970,
+        208,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_20",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        826,
+        970,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "mj_card.plist",
+    "_spriteFrames": {
+      "mj_CardBase": {
+        "__uuid__": "86WqPv5K9JrIg/ixYkMXGj"
+      },
+      "mj_CardCode_1": {
+        "__uuid__": "a1nPYnY49AZKrKEqcPWSWO"
+      },
+      "mj_CardCode_10": {
+        "__uuid__": "2fhGX0jzdP/7ujy/MNR6AC"
+      },
+      "mj_CardCode_11": {
+        "__uuid__": "f2YKa2ZqFGupgZrNlM00ar"
+      },
+      "mj_CardCode_12": {
+        "__uuid__": "1bteJwRm1HVq+/iOktGFFu"
+      },
+      "mj_CardCode_13": {
+        "__uuid__": "455WOOc2ZNh5GcnWMMsWYO"
+      },
+      "mj_CardCode_17": {
+        "__uuid__": "7c94Tv6TZA9574JyQ9RIKB"
+      },
+      "mj_CardCode_18": {
+        "__uuid__": "58K5JwM2hHPJKiwTN7xy8u"
+      },
+      "mj_CardCode_19": {
+        "__uuid__": "1e+cABOmRHFrDAijWwpI/3"
+      },
+      "mj_CardCode_2": {
+        "__uuid__": "623OKBtw5Jtog12tGUVzax"
+      },
+      "mj_CardCode_20": {
+        "__uuid__": "77l/KYTCJJDLoRD8T8sHN4"
+      },
+      "mj_CardCode_21": {
+        "__uuid__": "fcrlmbPNVMTaR+uYx7F4F0"
+      },
+      "mj_CardCode_22": {
+        "__uuid__": "e1xwaBqJlMpJM5QgGIIplf"
+      },
+      "mj_CardCode_23": {
+        "__uuid__": "68YpRynUBB04BK2cwhgJdO"
+      },
+      "mj_CardCode_24": {
+        "__uuid__": "cdOzpErwdAjKDhH7varlr5"
+      },
+      "mj_CardCode_25": {
+        "__uuid__": "72/VHixs1Es5QNBPzsWxAr"
+      },
+      "mj_CardCode_255": {
+        "__uuid__": "c9lZgIR5BKrqFFtmgUY8ON"
+      },
+      "mj_CardCode_26": {
+        "__uuid__": "1eSQtxfj1Fs6OKCS5Dut1b"
+      },
+      "mj_CardCode_27": {
+        "__uuid__": "c2nAAeVHtDxaXRgONANXWr"
+      },
+      "mj_CardCode_28": {
+        "__uuid__": "05wa09Ll9DCazZ1o7wgeAA"
+      },
+      "mj_CardCode_29": {
+        "__uuid__": "f2oD7sKHlNm6cY4DbCsvZi"
+      },
+      "mj_CardCode_3": {
+        "__uuid__": "98heQlEbhPJqqdSzyU/upR"
+      },
+      "mj_CardCode_33": {
+        "__uuid__": "54Sbx7Z8JO5aa5uaHn9NSS"
+      },
+      "mj_CardCode_34": {
+        "__uuid__": "5f4qHNxK5MnqnqLAmn7H2k"
+      },
+      "mj_CardCode_35": {
+        "__uuid__": "5bY5wtRO1D8IeSX/Aq2l6P"
+      },
+      "mj_CardCode_36": {
+        "__uuid__": "18RKrrgvVCA4TfyWv9my3t"
+      },
+      "mj_CardCode_37": {
+        "__uuid__": "e8AGFG9EtFr6qFjcM0GheJ"
+      },
+      "mj_CardCode_38": {
+        "__uuid__": "2c/cmF2KtLtZKR4XRg8p88"
+      },
+      "mj_CardCode_39": {
+        "__uuid__": "89MD+4t95AGbqT1nfEt1nl"
+      },
+      "mj_CardCode_4": {
+        "__uuid__": "68XWzYYKBHQokeHgsM6lYk"
+      },
+      "mj_CardCode_40": {
+        "__uuid__": "b9uw/onXtKqI+3BriMImpJ"
+      },
+      "mj_CardCode_41": {
+        "__uuid__": "a8lIpe0xpNPIBDJyv4O89M"
+      },
+      "mj_CardCode_42": {
+        "__uuid__": "534Bp0yddKZYpJ2StDSds0"
+      },
+      "mj_CardCode_43": {
+        "__uuid__": "2fbZzRJapD6aT4IuMvuo2R"
+      },
+      "mj_CardCode_44": {
+        "__uuid__": "e214bRoxlDmKWtj+lNBr9N"
+      },
+      "mj_CardCode_45": {
+        "__uuid__": "60FHWQ3ftEibNSDtv+3o7J"
+      },
+      "mj_CardCode_49": {
+        "__uuid__": "76DDPzrkxK4JBEjBqo8uKt"
+      },
+      "mj_CardCode_5": {
+        "__uuid__": "68hPHfPy5LO564V1/WpAQ6"
+      },
+      "mj_CardCode_50": {
+        "__uuid__": "96a5FSsHVNOo5cAizQD0YJ"
+      },
+      "mj_CardCode_51": {
+        "__uuid__": "9dpg1FL3ZFVpd2aysEjgSD"
+      },
+      "mj_CardCode_52": {
+        "__uuid__": "0cMdzWRKNDSYhOmqUucrLy"
+      },
+      "mj_CardCode_53": {
+        "__uuid__": "19JXzyV+tJxLeA31IjWDze"
+      },
+      "mj_CardCode_54": {
+        "__uuid__": "07Pu/41zhDk6Pf67uoVgtm"
+      },
+      "mj_CardCode_55": {
+        "__uuid__": "c2PEIweEdGV6MT4ln5lquK"
+      },
+      "mj_CardCode_56": {
+        "__uuid__": "42+e1E2IxGbLvv3hf3qqci"
+      },
+      "mj_CardCode_57": {
+        "__uuid__": "a0QpuX9HNDII78nAqe3job"
+      },
+      "mj_CardCode_58": {
+        "__uuid__": "c4CszDjEdJOaBf00JV+QDq"
+      },
+      "mj_CardCode_59": {
+        "__uuid__": "97V4dyXqxGBrTzYbRTT+FG"
+      },
+      "mj_CardCode_6": {
+        "__uuid__": "ae5fkpKahIpLPpHzjUFQwT"
+      },
+      "mj_CardCode_60": {
+        "__uuid__": "e4VgjYAq9GEZ7HbJ3yHRu3"
+      },
+      "mj_CardCode_61": {
+        "__uuid__": "f8/hvRjDpPtLNgHB3wsBIw"
+      },
+      "mj_CardCode_65": {
+        "__uuid__": "e7I2j5wjJNb6k0RjKKC9fx"
+      },
+      "mj_CardCode_66": {
+        "__uuid__": "25cIKXKD9BUqInPA2wiD33"
+      },
+      "mj_CardCode_7": {
+        "__uuid__": "ce6m+X/yNJNq/E/c9pCusZ"
+      },
+      "mj_CardCode_8": {
+        "__uuid__": "a5Po032NJPDKO2xX6FFPMN"
+      },
+      "mj_CardCode_9": {
+        "__uuid__": "ec0xnYKyhBxYj37IM4K05k"
+      },
+      "mj_CardCode_shadow": {
+        "__uuid__": "8cKFav5/hATr9vKlN5mDrN"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_17",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        898,
+        1804,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardBase",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        2,
+        1114,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        206,
+        278
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_39",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1248,
+        414,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_shadow",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        2,
+        1392,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_50",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        692,
+        208,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_59",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1320,
+        2,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_3",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        2,
+        280,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_51",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        414,
+        208,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_57",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        208,
+        208,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_1",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        2,
+        836,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_8",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1732,
+        1176,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_41",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        692,
+        414,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_6",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1176,
+        1660,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_40",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        970,
+        414,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_55",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        208,
+        764,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_27",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1176,
+        620,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_58",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1598,
+        2,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_255",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        2,
+        1670,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_24",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        620,
+        970,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_7",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1032,
+        1382,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_22",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        620,
+        1526,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_44",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1526,
+        208,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_60",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1042,
+        2,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_65",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        486,
+        2,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_37",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1804,
+        486,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_9",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1454,
+        1032,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_11",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        1732,
+        970,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_29",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        620,
+        620,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_61",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        764,
+        2,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "mj_CardCode_21",
+      "texture": "4fZKJp/cNMCpO0gigmD4ma",
+      "rect": [
+        620,
+        1804,
+        204,
+        276
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        204,
+        276
+      ],
+      "rotated": 1
+    }
+  }
+]

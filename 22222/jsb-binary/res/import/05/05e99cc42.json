@@ -1,0 +1,80 @@
+[
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "Waiting.plist",
+    "_spriteFrames": {
+      "loading_1": {
+        "__uuid__": "ebjK/rNgxP4awHi+1rwl6Q"
+      },
+      "loading_2": {
+        "__uuid__": "52hmfoGt5H8LIoKCywbNZt"
+      },
+      "wait_bg": {
+        "__uuid__": "b0jsIB4IRGEIIFT8mqKYs/"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "loading_2",
+      "texture": "b0ByDwHX9BpqX5U1/3mzMk",
+      "rect": [
+        102,
+        1,
+        70,
+        70
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        100,
+        100
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "wait_bg",
+      "texture": "b0ByDwHX9BpqX5U1/3mzMk",
+      "rect": [
+        173,
+        1,
+        313,
+        53
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        313,
+        53
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "loading_1",
+      "texture": "b0ByDwHX9BpqX5U1/3mzMk",
+      "rect": [
+        1,
+        1,
+        100,
+        100
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        100,
+        100
+      ]
+    }
+  }
+]

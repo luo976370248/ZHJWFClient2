@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Theplot_bg",
+    "texture": "f3j9Bn6vdII43M2yNjutGn",
+    "rect": [
+      0,
+      0,
+      1920,
+      295
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1920,
+      295
+    ]
+  }
+}

@@ -1,0 +1,1060 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_item_doudizhu",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        884,
+        959,
+        393,
+        295
+      ],
+      "offset": [
+        0,
+        -6
+      ],
+      "originalSize": [
+        393,
+        307
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "plaza_btn_hf",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        56,
+        1322,
+        117,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        117,
+        42
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_item_wuziqi",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        831,
+        1354,
+        393,
+        235
+      ],
+      "offset": [
+        0,
+        -36
+      ],
+      "originalSize": [
+        393,
+        307
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "tea_cell_bg",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        1020,
+        1946,
+        56,
+        56
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        56,
+        56
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "sm_top",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        191,
+        587,
+        684,
+        132
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        684,
+        132
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "team_title",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        904,
+        1749,
+        215,
+        76
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        215,
+        76
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_item_ydr",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        325,
+        587,
+        576,
+        162
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        576,
+        162
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "adv_title",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        1068,
+        1354,
+        352,
+        68
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        582,
+        68
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chart_item_gb",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        397,
+        1749,
+        274,
+        119
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        274,
+        119
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "info_k",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        982,
+        1879,
+        98,
+        65
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        98,
+        65
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_item_menji",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        660,
+        2,
+        393,
+        307
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        393,
+        307
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_item_Cow",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        489,
+        587,
+        393,
+        265
+      ],
+      "offset": [
+        0,
+        -21
+      ],
+      "originalSize": [
+        393,
+        307
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_item_fish",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        2,
+        394,
+        650,
+        191
+      ],
+      "offset": [
+        5,
+        3
+      ],
+      "originalSize": [
+        660,
+        197
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_item_LandFour1",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        756,
+        564,
+        393,
+        299
+      ],
+      "offset": [
+        0,
+        -4
+      ],
+      "originalSize": [
+        393,
+        307
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chart_item_lt",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        904,
+        1966,
+        114,
+        43
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        114,
+        43
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "history_top",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        56,
+        587,
+        684,
+        133
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        684,
+        133
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "plaza_tbg",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        1057,
+        846,
+        101,
+        97
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        101,
+        97
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "search_btn",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        1055,
+        2,
+        305,
+        124
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        305,
+        124
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_item_touzi",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        2,
+        2,
+        656,
+        197
+      ],
+      "offset": [
+        2,
+        0
+      ],
+      "originalSize": [
+        660,
+        197
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_item_sparrow_pzh",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        558,
+        1279,
+        393,
+        271
+      ],
+      "offset": [
+        0,
+        -18
+      ],
+      "originalSize": [
+        393,
+        307
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_item_sparrow_my",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        277,
+        1354,
+        393,
+        279
+      ],
+      "offset": [
+        0,
+        -14
+      ],
+      "originalSize": [
+        393,
+        307
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chart_item_lt_off",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        1138,
+        1482,
+        108,
+        37
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        114,
+        43
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "btn_shop",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        982,
+        1749,
+        128,
+        128
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        128,
+        128
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_item_cm",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        660,
+        311,
+        393,
+        251
+      ],
+      "offset": [
+        0,
+        -27
+      ],
+      "originalSize": [
+        393,
+        307
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "download_top",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        558,
+        1674,
+        236,
+        57
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        236,
+        57
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "gold_bg",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        56,
+        1273,
+        278,
+        47
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        278,
+        47
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "plaza_chartopbg",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        2,
+        587,
+        788,
+        52
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        788,
+        52
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "finger",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        325,
+        1165,
+        118,
+        101
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        118,
+        101
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "plaza_gold_bg",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        56,
+        1273,
+        278,
+        47
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        278,
+        47
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "countinue",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        1138,
+        1354,
+        126,
+        36
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        126,
+        36
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "pic_bg",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        1057,
+        744,
+        101,
+        100
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        101,
+        100
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "plaza_gamedownload_effect_jindu",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        518,
+        1749,
+        384,
+        142
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        384,
+        142
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_item_dss",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        489,
+        982,
+        393,
+        295
+      ],
+      "offset": [
+        0,
+        -6
+      ],
+      "originalSize": [
+        393,
+        307
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "chart_item_gb_off",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        397,
+        1749,
+        274,
+        119
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        274,
+        119
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "PlazaLayer.plist",
+    "_spriteFrames": {
+      "activity_top": {
+        "__uuid__": "fdXcSuTzZCYIkfH/JLFxFN"
+      },
+      "adv_title": {
+        "__uuid__": "25cCdVSR9ELLflKnkhAK6k"
+      },
+      "btn_shop": {
+        "__uuid__": "8fL8qhQF5NKLqXisDwnOg+"
+      },
+      "chart_item_gb": {
+        "__uuid__": "2eGCkg6zxKgYwrQiSHDmao"
+      },
+      "chart_item_gb_off": {
+        "__uuid__": "cfCiDs3qBFs6gM7aJ5o6V9"
+      },
+      "chart_item_lt": {
+        "__uuid__": "4epNkMxYlKUq6zJhb1CxXY"
+      },
+      "chart_item_lt_off": {
+        "__uuid__": "8bPMjHTmZE9av2eAGAQsFj"
+      },
+      "countinue": {
+        "__uuid__": "bd86gRajJKPburjprLtm70"
+      },
+      "download_top": {
+        "__uuid__": "a9uMU26tdE1KJCORRM5D/d"
+      },
+      "finger": {
+        "__uuid__": "b8pQrWzNVNNbq9uDOoCypr"
+      },
+      "game_item_Cow": {
+        "__uuid__": "3a40kwrlBGq4YuxTldh/9J"
+      },
+      "game_item_LandFour1": {
+        "__uuid__": "4bJc4JtrNOIbq9V40DqDbo"
+      },
+      "game_item_cm": {
+        "__uuid__": "a3fD8ji2JIgInbhUMwJnID"
+      },
+      "game_item_doudizhu": {
+        "__uuid__": "07I1zG9hZM5J1BRcbb+DDO"
+      },
+      "game_item_dss": {
+        "__uuid__": "cc/Et6/npANrpZIEFvTkmy"
+      },
+      "game_item_fg": {
+        "__uuid__": "f3mtdP681FoZWH2qmioKmf"
+      },
+      "game_item_fish": {
+        "__uuid__": "3eGeHwU79PkIbGdCsU8RXk"
+      },
+      "game_item_menji": {
+        "__uuid__": "334LnP5atDKqhL3kYIcBEt"
+      },
+      "game_item_ncmj": {
+        "__uuid__": "e29ZhQ4fVEUZcydO1keQfp"
+      },
+      "game_item_shuiguoji": {
+        "__uuid__": "d4+6WSZ6JGC7dmh2MXsFfz"
+      },
+      "game_item_sparrow_my": {
+        "__uuid__": "82P3E7h0hNS6bBcrAi0iWv"
+      },
+      "game_item_sparrow_pzh": {
+        "__uuid__": "7a1an7pT1OUrNqcjYDBaVj"
+      },
+      "game_item_touzi": {
+        "__uuid__": "72Oo/ASvVJT7Ii6FnwOYCX"
+      },
+      "game_item_wuziqi": {
+        "__uuid__": "11GhJ+vwxDv7y2jmEikZAM"
+      },
+      "game_item_ydr": {
+        "__uuid__": "23cVnvTklC0r4wic/ZYUmo"
+      },
+      "game_item_zgmj": {
+        "__uuid__": "eaL5IcWxVA7b2Biie0FOTm"
+      },
+      "gold_bg": {
+        "__uuid__": "adSXHZsJFLS54wd5ojxM2W"
+      },
+      "history_top": {
+        "__uuid__": "4fuMiRhzVMV53+OA8japIq"
+      },
+      "info_k": {
+        "__uuid__": "2er2/X06VPH7zvQ9e4K7Dy"
+      },
+      "pic_bg": {
+        "__uuid__": "c6oE5XZgtFb4+kVUzIResl"
+      },
+      "plaza_anonounce_bg": {
+        "__uuid__": "ed8iaViM5HhLfQnDSa8FJh"
+      },
+      "plaza_bar_jjkf": {
+        "__uuid__": "edSW4gjAhFA6h/I0La+byR"
+      },
+      "plaza_btn_hf": {
+        "__uuid__": "0eZJh2RYhKQ6vJfC7hDeQj"
+      },
+      "plaza_chartopbg": {
+        "__uuid__": "b1lnFtT7NIZ65W0AVv36co"
+      },
+      "plaza_gamedownload_effect_jindu": {
+        "__uuid__": "c8+e6REXBEP6pjWJ7OH/bM"
+      },
+      "plaza_gold_bg": {
+        "__uuid__": "ba+Fz88A1FprzPkqWFRWuU"
+      },
+      "plaza_tbg": {
+        "__uuid__": "50sTV/qThJb6vfL/a6H3Vt"
+      },
+      "plaza_ttopbg": {
+        "__uuid__": "d3ajwNb3JAn7ARKYYkJ/AK"
+      },
+      "search_btn": {
+        "__uuid__": "56h7W5xwVARq+pPMLIvXmZ"
+      },
+      "sm_top": {
+        "__uuid__": "1caLbLb9BMhoQYshjHImEW"
+      },
+      "star": {
+        "__uuid__": "eeDoj/An5BjqFYgIUiFDIU"
+      },
+      "tea_cell_bg": {
+        "__uuid__": "171uBL7AlI4L93ORvfU7Tx"
+      },
+      "team_title": {
+        "__uuid__": "1fje+WLQpDBYElyfV75P7h"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "plaza_ttopbg",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        831,
+        1279,
+        50,
+        46
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        50,
+        46
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_item_shuiguoji",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        2,
+        201,
+        656,
+        191
+      ],
+      "offset": [
+        2,
+        3
+      ],
+      "originalSize": [
+        660,
+        197
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_item_ncmj",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        2,
+        1377,
+        393,
+        273
+      ],
+      "offset": [
+        0,
+        -17
+      ],
+      "originalSize": [
+        393,
+        307
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_item_zgmj",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        2,
+        1772,
+        393,
+        235
+      ],
+      "offset": [
+        0,
+        -35
+      ],
+      "originalSize": [
+        393,
+        307
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "plaza_bar_jjkf",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        445,
+        1165,
+        130,
+        42
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        130,
+        42
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "plaza_anonounce_bg",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        1055,
+        309,
+        123,
+        221
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        123,
+        221
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "star",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        336,
+        1268,
+        71,
+        71
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        71,
+        71
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_item_fg",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        518,
+        1893,
+        384,
+        142
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        384,
+        142
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "activity_top",
+      "texture": "82iM8lLLBPmJIPm7iXSXfF",
+      "rect": [
+        1057,
+        532,
+        210,
+        106
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        210,
+        106
+      ],
+      "rotated": 1
+    }
+  }
+]

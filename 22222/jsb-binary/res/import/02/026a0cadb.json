@@ -1,0 +1,1002 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "yuanbao_ittem_1",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        184,
+        688,
+        274,
+        119
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        274,
+        119
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "jf_num",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        329,
+        1784,
+        166,
+        162
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        166,
+        162
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "jf_input_bg",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        116,
+        1798,
+        207,
+        131
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        207,
+        131
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_rule",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        329,
+        1948,
+        90,
+        56
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        90,
+        56
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "gold_room_create",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        2,
+        1039,
+        488,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        488,
+        102
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "fresh_table_btn",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        467,
+        588,
+        92,
+        121
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        92,
+        121
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "add_num_sure",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        476,
+        682,
+        148,
+        76
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        148,
+        76
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_name_dss",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        186,
+        1332,
+        198,
+        78
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        198,
+        78
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cellinfo_normal",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        122,
+        670,
+        307,
+        60
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        307,
+        60
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "customize_line",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        572,
+        2,
+        274,
+        10
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        274,
+        10
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cum_line",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        2,
+        2,
+        1035,
+        4
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1035,
+        4
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "yuanbao_ittem",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        230,
+        976,
+        274,
+        119
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        274,
+        119
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "gold_ittem",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        472,
+        970,
+        274,
+        119
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        274,
+        119
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "zjf_mbg",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        476,
+        832,
+        86,
+        70
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        86,
+        70
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteAtlas",
+    "_name": "CustomizeLayer.plist",
+    "_spriteFrames": {
+      "add_num_redel": {
+        "__uuid__": "523OmyqElD7aZ/pfvkICi4"
+      },
+      "add_num_sure": {
+        "__uuid__": "21N7VvrNJOpoqivRHfuv2A"
+      },
+      "add_tea_top": {
+        "__uuid__": "a2DP6+EVVPQo/XXSrvoM3O"
+      },
+      "add_top": {
+        "__uuid__": "46+5bZHnZLHbVwlXvlLCkU"
+      },
+      "cellinfo_choose": {
+        "__uuid__": "605BYh0mVABr608OfP0Fdi"
+      },
+      "cellinfo_normal": {
+        "__uuid__": "2fixF7Z2xNHr1il3DneI57"
+      },
+      "choose_off": {
+        "__uuid__": "65tJIS5lRODayjfiHojPUh"
+      },
+      "choose_on": {
+        "__uuid__": "8fnTt5PmdIzKx0nOWddqXQ"
+      },
+      "createroom_btn": {
+        "__uuid__": "535IPYdOxN5K36fFagWHgk"
+      },
+      "cum_line": {
+        "__uuid__": "32l/5FFr5I2LBl70WW7pbh"
+      },
+      "customize_line": {
+        "__uuid__": "30fuZB+6FC5aS5REHT7Ssa"
+      },
+      "fk_item": {
+        "__uuid__": "5ecSCG4QFFqqDI5ryvTSHL"
+      },
+      "fk_item_1": {
+        "__uuid__": "46NLpN9RBELridfrVzG44S"
+      },
+      "fresh_table_btn": {
+        "__uuid__": "20lh/eQjBHSJRmK28Q/nud"
+      },
+      "game_name_Crow": {
+        "__uuid__": "b3eF6X9SdOWZXzdL74P9oG"
+      },
+      "game_name_cm": {
+        "__uuid__": "d1k8wP4RdAuqjbfHCovVyq"
+      },
+      "game_name_dss": {
+        "__uuid__": "29kXkaZZxFXp7Rvrv8Q/5M"
+      },
+      "game_name_land": {
+        "__uuid__": "ee6SAopchGeJ1yEdwPA9gy"
+      },
+      "game_name_mj": {
+        "__uuid__": "7a6+2fU4pP9YTMvATlDBLi"
+      },
+      "game_name_mm": {
+        "__uuid__": "8crg9CzKVB1Z8czetC7taN"
+      },
+      "game_name_ncmj": {
+        "__uuid__": "e1fJ21jeZMwbfz0oFe2iff"
+      },
+      "game_name_pzh": {
+        "__uuid__": "e3OvJfC6lFTJt9FXoA8kgQ"
+      },
+      "game_name_wuziqi": {
+        "__uuid__": "c2hxNJE9RBiYjfLcZqb9Gv"
+      },
+      "game_name_wzmj": {
+        "__uuid__": "f9nLP2PvFOPLRUsZirBAxb"
+      },
+      "game_name_ydr": {
+        "__uuid__": "dee7/0Gf5L0oYSEI49pRPp"
+      },
+      "game_name_zgma": {
+        "__uuid__": "5e1AsY0yJIqbYacXBHYOz/"
+      },
+      "game_rule": {
+        "__uuid__": "177aDdoHBE5JovRxIIadho"
+      },
+      "gold_ittem": {
+        "__uuid__": "3fhiZ0agpFvI/NKIIQq8o1"
+      },
+      "gold_ittem_1": {
+        "__uuid__": "978k3ZPJhPXql41EeB0X4G"
+      },
+      "gold_room_create": {
+        "__uuid__": "1fwL/doCtNVY8XTyRMTaAt"
+      },
+      "input_line": {
+        "__uuid__": "4bZlRf01VMhJHFYAivd7JK"
+      },
+      "jf_input_bg": {
+        "__uuid__": "16Ui7xQPpBjb62KWPyTVkj"
+      },
+      "jf_num": {
+        "__uuid__": "01ys0xc3ZBCaSBPhf4Abqg"
+      },
+      "jf_num_bg": {
+        "__uuid__": "a3qIVfadpPSpm2sgY5xpiw"
+      },
+      "lx_tittle": {
+        "__uuid__": "b918gbDZNKjbF9HQeEasw/"
+      },
+      "start_game": {
+        "__uuid__": "d52Ckhqr9OUbfFNhqA5FNr"
+      },
+      "table_cell_bg": {
+        "__uuid__": "5dF26VfuZPnIFCNeQgCY5V"
+      },
+      "yuanbao_ittem": {
+        "__uuid__": "36M+FynZJDmrFQeX4oAdyI"
+      },
+      "yuanbao_ittem_1": {
+        "__uuid__": "01ZujKfAFB6q0sV7ytBFo0"
+      },
+      "zjf_mbg": {
+        "__uuid__": "40ODb6kw5IboVHjtY1aeGA"
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "fk_item_1",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        472,
+        1246,
+        274,
+        119
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        274,
+        119
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "add_top",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        205,
+        2,
+        684,
+        133
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        684,
+        133
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "input_line",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        184,
+        964,
+        2,
+        106
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        2,
+        106
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "add_num_redel",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        386,
+        1332,
+        142,
+        76
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        148,
+        76
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "createroom_btn",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        2,
+        1529,
+        428,
+        112
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        428,
+        112
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "table_cell_bg",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        8,
+        2,
+        666,
+        195
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        666,
+        195
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "fk_item",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        116,
+        1522,
+        274,
+        119
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        274,
+        119
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_name_zgma",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        492,
+        326,
+        260,
+        78
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        260,
+        78
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "cellinfo_choose",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        106,
+        1030,
+        307,
+        60
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        307,
+        60
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "choose_off",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        168,
+        979,
+        286,
+        60
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        286,
+        60
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_name_mj",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        186,
+        1412,
+        154,
+        78
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        154,
+        78
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_name_mm",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        397,
+        1522,
+        260,
+        78
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        260,
+        78
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "choose_on",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        305,
+        688,
+        286,
+        60
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        286,
+        60
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "gold_ittem_1",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        351,
+        976,
+        274,
+        119
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        274,
+        119
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "add_tea_top",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        340,
+        2,
+        545,
+        150
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        545,
+        150
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "jf_num_bg",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        340,
+        549,
+        125,
+        131
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        125,
+        131
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_name_Crow",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        106,
+        1339,
+        160,
+        78
+      ],
+      "offset": [
+        -50,
+        0
+      ],
+      "originalSize": [
+        260,
+        78
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "lx_tittle",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        367,
+        682,
+        286,
+        107
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        286,
+        107
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_name_wuziqi",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        230,
+        1252,
+        198,
+        78
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        198,
+        78
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_name_cm",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        477,
+        1522,
+        260,
+        78
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        260,
+        78
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "start_game",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        8,
+        670,
+        358,
+        112
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        358,
+        112
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_name_ydr",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        249,
+        1787,
+        198,
+        78
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        198,
+        78
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_name_ncmj",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        317,
+        1522,
+        260,
+        78
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        260,
+        78
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_name_pzh",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        492,
+        2,
+        322,
+        78
+      ],
+      "offset": [
+        -1,
+        0
+      ],
+      "originalSize": [
+        324,
+        78
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_name_land",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        497,
+        1784,
+        197,
+        78
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        197,
+        78
+      ],
+      "rotated": 1
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "game_name_wzmj",
+      "texture": "24m+uoxUZDiYPJiAg9AwqK",
+      "rect": [
+        237,
+        1522,
+        263,
+        78
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        263,
+        78
+      ],
+      "rotated": 1
+    }
+  }
+]

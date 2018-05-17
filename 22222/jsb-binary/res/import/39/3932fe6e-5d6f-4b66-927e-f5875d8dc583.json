@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tip_bk",
+    "texture": "71FRd0H8pKN6DM3q20y+tV",
+    "rect": [
+      0,
+      0,
+      296,
+      286
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      296,
+      286
+    ]
+  }
+}
