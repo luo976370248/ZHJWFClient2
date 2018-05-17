@@ -40,14 +40,14 @@
     "_active": true,
     "_components": [
       {
-        "__id__": 214
+        "__id__": 215
       },
       {
-        "__id__": 215
+        "__id__": 216
       }
     ],
     "_prefab": {
-      "__id__": 216
+      "__id__": 217
     },
     "_id": "",
     "_opacity": 255,
@@ -6180,9 +6180,13 @@
     ],
     "_tag": -1,
     "_active": true,
-    "_components": [],
+    "_components": [
+      {
+        "__id__": 213
+      }
+    ],
     "_prefab": {
-      "__id__": 213
+      "__id__": 214
     },
     "_id": "",
     "_opacity": 255,
@@ -6594,7 +6598,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "mj_add_0",
+    "_name": "_btnGenDaoDi",
     "_objFlags": 0,
     "_parent": {
       "__id__": 197
@@ -6684,6 +6688,73 @@
     },
     "fileId": "f5lku91bVBWql96fwfCJUF",
     "sync": false
+  },
+  {
+    "__type__": "a22acbd67ZMP6D/Rru/i2sR",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 197
+    },
+    "_enabled": true,
+    "spriteOption": [
+      {
+        "__uuid__": "7431e836-f812-470e-b677-dddfb6ac0b04"
+      },
+      {
+        "__uuid__": "e671241a-456d-455c-93a5-66ebc0651d22"
+      },
+      {
+        "__uuid__": "2e491b3a-8809-4a96-a88a-04a3afb4efbf"
+      },
+      {
+        "__uuid__": "bc9aec27-348b-47a3-bbe5-957295fb7d33"
+      },
+      {
+        "__uuid__": "e30e5caf-ada9-4da0-94a5-de6a1ccf7e84"
+      },
+      {
+        "__uuid__": "109d6380-e0d4-44e5-92b1-290536332086"
+      },
+      {
+        "__uuid__": "36321dba-eeb8-4154-97bb-b1897559202c"
+      },
+      {
+        "__uuid__": "c82ed6dc-842d-466d-bf46-f9bf76f9d244"
+      },
+      {
+        "__uuid__": "12baf77c-c7ed-49c5-b09b-c3625f084bc4"
+      }
+    ],
+    "spriteBate": [
+      {
+        "__uuid__": "a7a4bcbc-afe7-4690-a54c-69ec997280ef"
+      },
+      {
+        "__uuid__": "a11b753f-1ee7-4789-9941-f8a581659b31"
+      },
+      {
+        "__uuid__": "924f5423-c7a6-4bfe-85f7-5d0ea4eb50db"
+      },
+      {
+        "__uuid__": "fa23f0c2-618d-40ae-9981-e86169332744"
+      },
+      {
+        "__uuid__": "139e229e-dfac-4e3c-b689-685147406236"
+      },
+      {
+        "__uuid__": "4cc2ea13-206a-48a8-b5f1-c2fa3e30e853"
+      },
+      {
+        "__uuid__": "f443eba1-bce3-4b59-851a-e162fd41f239"
+      },
+      {
+        "__uuid__": "654f1ec1-89c2-46be-b35b-3bd8541154b2"
+      },
+      {
+        "__uuid__": "30abdacd-d0d4-45c2-a79c-e41e55395e5e"
+      }
+    ]
   },
   {
     "__type__": "cc.PrefabInfo",
